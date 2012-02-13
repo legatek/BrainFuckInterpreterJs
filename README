@@ -1,0 +1,7 @@
+Created May 2011
+During some downtime last year, I decided to test the waters with Behavior-driven development. I had seen other people write BrainFuck interpreters in Code Golfs on StackOverflow and figured this was a nice way to learn.
+
+This is the result of it. The interpreter itself has most of the functionality working, but there are edge cases that were not accounted for. Use this as a learning tool.
+
+Cheers,
+Rob
